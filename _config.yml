@@ -1,0 +1,5 @@
+# Jekyll Config
+
+exclude:
+  - node_modules
+  - vendor
